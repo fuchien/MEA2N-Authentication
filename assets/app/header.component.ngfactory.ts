@@ -264,6 +264,6 @@ class _View_HeaderComponent0 extends import1.AppView<import3.HeaderComponent> {
   }
 }
 export function viewFactory_HeaderComponent0(viewUtils:import4.ViewUtils,parentInjector:import5.Injector,declarationEl:import2.AppElement):import1.AppView<import3.HeaderComponent> {
-  if ((renderType_HeaderComponent === (null as any))) { (renderType_HeaderComponent = viewUtils.createRenderComponentType('c:/Users/IBM_ADMIN/Downloads/08 Optimizations/assets/app/header.component.ts class HeaderComponent - inline template',0,import8.ViewEncapsulation.None,styles_HeaderComponent,{})); }
+  if ((renderType_HeaderComponent === (null as any))) { (renderType_HeaderComponent = viewUtils.createRenderComponentType('C:/Users/IBM_ADMIN/Documents/Projetos/MEAN-Authentication/assets/app/header.component.ts class HeaderComponent - inline template',0,import8.ViewEncapsulation.None,styles_HeaderComponent,{})); }
   return new _View_HeaderComponent0(viewUtils,parentInjector,declarationEl);
 }

@@ -115,7 +115,7 @@ class _View_MessageListComponent0 extends import1.AppView<import3.MessageListCom
   }
 }
 export function viewFactory_MessageListComponent0(viewUtils:import4.ViewUtils,parentInjector:import5.Injector,declarationEl:import2.AppElement):import1.AppView<import3.MessageListComponent> {
-  if ((renderType_MessageListComponent === (null as any))) { (renderType_MessageListComponent = viewUtils.createRenderComponentType('c:/Users/IBM_ADMIN/Downloads/08 Optimizations/assets/app/messages/message-list.component.ts class MessageListComponent - inline template',0,import9.ViewEncapsulation.None,styles_MessageListComponent,{})); }
+  if ((renderType_MessageListComponent === (null as any))) { (renderType_MessageListComponent = viewUtils.createRenderComponentType('C:/Users/IBM_ADMIN/Documents/Projetos/MEAN-Authentication/assets/app/messages/message-list.component.ts class MessageListComponent - inline template',0,import9.ViewEncapsulation.None,styles_MessageListComponent,{})); }
   return new _View_MessageListComponent0(viewUtils,parentInjector,declarationEl);
 }
 class _View_MessageListComponent1 extends import1.AppView<any> {

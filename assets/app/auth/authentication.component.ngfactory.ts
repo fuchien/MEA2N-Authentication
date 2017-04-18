@@ -255,7 +255,7 @@ class _View_AuthenticationComponent0 extends import1.AppView<import3.Authenticat
   }
 }
 export function viewFactory_AuthenticationComponent0(viewUtils:import4.ViewUtils,parentInjector:import5.Injector,declarationEl:import2.AppElement):import1.AppView<import3.AuthenticationComponent> {
-  if ((renderType_AuthenticationComponent === (null as any))) { (renderType_AuthenticationComponent = viewUtils.createRenderComponentType('c:/Users/IBM_ADMIN/Downloads/08 Optimizations/assets/app/auth/authentication.component.ts class AuthenticationComponent - inline template',0,import9.ViewEncapsulation.None,styles_AuthenticationComponent,{})); }
+  if ((renderType_AuthenticationComponent === (null as any))) { (renderType_AuthenticationComponent = viewUtils.createRenderComponentType('C:/Users/IBM_ADMIN/Documents/Projetos/MEAN-Authentication/assets/app/auth/authentication.component.ts class AuthenticationComponent - inline template',0,import9.ViewEncapsulation.None,styles_AuthenticationComponent,{})); }
   return new _View_AuthenticationComponent0(viewUtils,parentInjector,declarationEl);
 }
 class _View_AuthenticationComponent1 extends import1.AppView<any> {
