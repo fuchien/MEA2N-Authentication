@@ -1,7 +1,7 @@
 # MEA2N-Authentication
 
 
-You can see -----> [DEMO](https://meanng2.herokuapp.com/messages) <-----
+You can see -----> [DEMO](https://chienmea2n.herokuapp.com/) <-----
 
 # Developing
 
